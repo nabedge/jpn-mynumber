@@ -18,3 +18,4 @@ buildNumber.properties
 
 # other
 .DS_Store
+*.md.html
